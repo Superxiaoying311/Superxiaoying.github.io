@@ -78,3 +78,5 @@ $$
 # 参考
 
 [依云's Blog](https://blog.lilydjwg.me/2011/5/23/mathjax-a-good-formula-display-engine.26966.html)
+
+![are you kidding me](/images/emoji/you-kidding-me.jpg)
