@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://shengfazhu.github.io
+url: https://superxiaoying311.github.io
 date_format: "ordinal"
 title: 黑
-subtitle: "不发胖，不好为人师，不停止学习"
-description: "俺老升"
-keywords: developer
+subtitle: "honor"
+description: "Fiona"
+keywords: researcher
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 4
@@ -18,9 +18,9 @@ side_bar_repo_limit: 4
 author: mzlogin
 organization: 
 organization_url: 
-github_username: ShengfaZhu
+github_username: Superxiaoying311
 location: Beijing, China
-email: shengfa_zhu@163.com
+email: xiaoying14@mails.tsinghua.edu.cn
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: ShengfaZhu/ShengfaZhu.github.io
+repository: Superxiaoying311/Superxiaoying311.github.io
 # ---------------- #
 #      Comments    #
 # ---------------- #
